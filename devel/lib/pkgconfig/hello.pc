@@ -1,0 +1,8 @@
+prefix=/home/baihao/7.11_demo1/devel
+
+Name: hello
+Description: Description of hello
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

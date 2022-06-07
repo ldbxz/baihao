@@ -1,0 +1,2 @@
+hello
+-DCATKIN_DEVEL_PREFIX=/home/baihao/7.11_demo1/devel -DCMAKE_INSTALL_PREFIX=/home/baihao/7.11_demo1/install -G Unix Makefiles
